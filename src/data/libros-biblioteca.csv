@@ -1,0 +1,101 @@
+ID,Title,Author,Genre,Availability
+1,El laberinto de los espíritus,Carlos Ruiz Zafón,Ficción,Disponible
+2,La sombra del viento,Carlos Ruiz Zafón,Ficción,Disponible
+3,Harry Potter y la piedra filosofal,J.K. Rowling,Ficción,Disponible
+4,El señor de los anillos,J.R.R. Tolkien,Ficción,Disponible
+5,Crimen y castigo,Fyodor Dostoevsky,Ficción,Disponible
+6,1984,George Orwell,Ficción,Disponible
+7,Orgullo y prejuicio,Jane Austen,Ficción,Disponible
+8,Cumbres Borrascosas,Emily Brontë,Ficción,Disponible
+9,Matar a un ruiseñor,Harper Lee,Ficción,Disponible
+10,El gran Gatsby,F. Scott Fitzgerald,Ficción,Disponible
+11,Fahrenheit 451,Ray Bradbury,Ficción,Disponible
+12,Don Quijote de la Mancha,Miguel de Cervantes,Ficción,Disponible
+13,Anna Karenina,Leo Tolstoy,Ficción,Disponible
+14,Los miserables,Victor Hugo,Ficción,Disponible
+15,La Odisea,Homer,Ficción,Disponible
+16,La metamorfosis,Franz Kafka,Ficción,Disponible
+17,Drácula,Bram Stoker,Ficción,Disponible
+18,Frankenstein,Mary Shelley,Ficción,Disponible
+19,La isla del tesoro,Robert Louis Stevenson,Ficción,Disponible
+20,Los pilares de la Tierra,Ken Follett,Ficción,Disponible
+21,El código Da Vinci,Dan Brown,Ficción,Disponible
+22,El alquimista,Paulo Coelho,Ficción,Disponible
+23,El retrato de Dorian Gray,Oscar Wilde,Ficción,Disponible
+24,Moby Dick,Herman Melville,Ficción,Disponible
+25,La guerra y la paz,Leo Tolstoy,Ficción,Disponible
+26,El extranjero,Albert Camus,Ficción,Disponible
+27,El conde de Montecristo,Alexandre Dumas,Ficción,Disponible
+28,El viejo y el mar,Ernest Hemingway,Ficción,Disponible
+29,En busca del tiempo perdido,Marcel Proust,Ficción,Disponible
+30,El retrato de Dorian Gray,Oscar Wilde,Ficción,Disponible
+31,Rebelión en la granja,George Orwell,Ficción,Disponible
+32,El corazón de las tinieblas,Joseph Conrad,Ficción,Disponible
+33,La insoportable levedad del ser,Milan Kundera,Ficción,Disponible
+34,El nombre del viento,Patrick Rothfuss,Ficción,Disponible
+35,Los juegos del hambre,Suzanne Collins,Ficción,Disponible
+36,El principito,Antoine de Saint-Exupéry,Ficción,Disponible
+37,El Perfume,Patrick Süskind,Ficción,Disponible
+38,Los hombres que no amaban a las mujeres,Stieg Larsson,Ficción,Disponible
+39,American Gods,Neil Gaiman,Ficción,Disponible
+40,"El león, la bruja y el armario",C.S. Lewis,Ficción,Disponible
+41,Las crónicas de Narnia,C.S. Lewis,Ficción,Disponible
+42,La ciudad y los perros,Mario Vargas Llosa,Ficción,Disponible
+43,La hoguera de las vanidades,Tom Wolfe,Ficción,Disponible
+44,El guardián entre el centeno,J.D. Salinger,Ficción,Disponible
+45,Los tres mosqueteros,Alexandre Dumas,Ficción,Disponible
+46,El amor en los tiempos del cólera,Gabriel García Márquez,Ficción,Disponible
+47,Volverán las oscuras golondrinas,Gustavo Adolfo Bécquer,Poesía,Disponible
+48,Las mil y una noches,Anónimo,Ficción,Disponible
+49,Cien años de soledad,Gabriel García Márquez,Ficción,Disponible
+50,Sapiens,Yuval Noah Harari,No ficción,Disponible
+51,El laberinto del fauno,Guillermo del Toro y Cornelia Funke,Ficción,Disponible
+52,El psicoanalista,John Katzenbach,Ficción,Disponible
+53,El coronel no tiene quien le escriba,Gabriel García Márquez,Ficción,Disponible
+54,La casa de los espíritus,Isabel Allende,Ficción,Disponible
+55,El hombre en busca de sentido,Viktor Frankl,No ficción,Disponible
+56,El arte de la guerra,Sun Tzu,No ficción,Disponible
+57,La historia interminable,Michael Ende,Ficción,Disponible
+58,La sombra de la sirena,Camilla Läckberg,Ficción,Disponible
+59,El médico,Noah Gordon,Ficción,Disponible
+60,Los renglones torcidos de Dios,Torcuato Luca de Tena,Ficción,Disponible
+61,El túnel,Ernesto Sabato,Ficción,Disponible
+62,El niño con el pijama de rayas,John Boyne,Ficción,Disponible
+63,El jardín secreto,Frances Hodgson Burnett,Ficción,Disponible
+64,El código enigma,Robert Harris,Ficción,Disponible
+65,El informe de Brodeck,Philippe Claudel,Ficción,Disponible
+66,Cien años de soledad,Gabriel García Márquez,Ficción,Disponible
+67,Lo que el viento se llevó,Margaret Mitchell,Ficción,Disponible
+68,Rayuela,Julio Cortázar,Ficción,Disponible
+69,Los pilares de la Tierra,Ken Follett,Ficción,Disponible
+70,El prisionero del cielo,Carlos Ruiz Zafón,Ficción,Disponible
+71,El club Dumas,Arturo Pérez-Reverte,Ficción,Disponible
+72,La ladrona de libros,Markus Zusak,Ficción,Disponible
+73,Crónica de una muerte anunciada,Gabriel García Márquez,Ficción,Disponible
+74,La catedral del mar,Ildefonso Falcones,Ficción,Disponible
+75,La muerte de Artemio Cruz,Carlos Fuentes,Ficción,Disponible
+76,El amante,Marguerite Duras,Ficción,Disponible
+77,Los detectives salvajes,Roberto Bolaño,Ficción,Disponible
+78,La fiesta del chivo,Mario Vargas Llosa,Ficción,Disponible
+79,El príncipe,Nicolás Maquiavelo,No ficción,Disponible
+80,Ve y pon un centinela,Harper Lee,Ficción,Disponible
+81,Los santos inocentes,Miguel Delibes,Ficción,Disponible
+82,Los reyes malditos,Maurice Druon,Ficción,Disponible
+83,La conjura de los necios,John Kennedy Toole,Ficción,Disponible
+84,Las venas abiertas de América Latina,Eduardo Galeano,No ficción,Disponible
+85,El diario de Ana Frank,Ana Frank,No ficción,Disponible
+86,El gato negro,Edgar Allan Poe,Ficción,Disponible
+87,La casa de Bernarda Alba,Federico García Lorca,Teatro,Disponible
+88,La elegancia del erizo,Muriel Barbery,Ficción,Disponible
+89,La dama de las camelias,Alexandre Dumas hijo,Ficción,Disponible
+90,La colmena,Camilo José Cela,Ficción,Disponible
+91,El palacio de la medianoche,Carlos Ruiz Zafón,Ficción,Disponible
+92,La mano de Fátima,Ildefonso Falcones,Ficción,Disponible
+93,Memorias de una geisha,Arthur Golden,Ficción,Disponible
+94,Drácula,Bram Stoker,Ficción,Disponible
+95,Lo que queda del día,Kazuo Ishiguro,Ficción,Disponible
+96,La hoguera de las vanidades,Tom Wolfe,Ficción,Disponible
+97,El jugador,Fiódor Dostoievski,Ficción,Disponible
+98,La naranja mecánica,Anthony Burgess,Ficción,Disponible
+99,El arte de amar,Erich Fromm,No ficción,Disponible
+100,Los juegos del hambre,Suzanne Collins,Ficción,Disponible

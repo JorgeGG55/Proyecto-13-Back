@@ -60,12 +60,6 @@ const createReview = async (req, res) => {
     const user_ID = req.user.id;
     const { bookId } = req.params;
 
-    if (rating < 1 || rating > 5) {
-      return res
-        .status(400)
-        .json({ message: "The rating must be between 1 and 5" });
-    }
-
     const existingReview = await Review.findOne({ user_ID, book_ID: bookId });
     if (existingReview) {
       return res
@@ -91,7 +85,7 @@ const createReview = async (req, res) => {
 
     res.status(201).json({ message: "Rating published successfully!" });
   } catch (error) {
-    res.status(400).json({ message: error.message });
+    res.status(400).json({ message: "The rating cannot be empty" });
   }
 };
 

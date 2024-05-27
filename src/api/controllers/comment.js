@@ -34,7 +34,7 @@ const getAllCommentsByBookId = async (req, res) => {
 
       .select("content")
       .select("book_ID")
-      .select("user_ID")
+      .populate("user_ID")
       .select("createdDate");
 
     res.json(comments);

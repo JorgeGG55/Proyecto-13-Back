@@ -67,7 +67,10 @@ const createLoan = async (req, res) => {
 
     await newLoan.save();
 
-    res.status(201).json({ message: "Loan successfully created!" });
+    res.status(201).json({
+      message:
+        "Loan successfully created! The book has been added to your loans",
+    });
   } catch (error) {
     console.error("Error al crear el préstamo:", error);
     res.status(500).json({ message: "Error en el servidor" });

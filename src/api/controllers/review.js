@@ -56,7 +56,14 @@ const getAllReviewByBookId = async (req, res) => {
 
 const createReview = async (req, res) => {
   try {
-    const { rating } = req.body;
+    let { rating } = req.body;
+
+    if (rating < 1) {
+      rating = 1;
+    } else if (rating > 5) {
+      rating = 5;
+    }
+
     const user_ID = req.user.id;
     const { bookId } = req.params;
 
